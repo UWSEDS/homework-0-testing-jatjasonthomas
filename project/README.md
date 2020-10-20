@@ -11,3 +11,5 @@
 
 **project/analysis/hw1_jasonThomas.ipynb**
 - this is the jupyter notebook for my analysis using rawData.csv
+
+Note: the figure requested is within the .ipynb file
